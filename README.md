@@ -1,4 +1,5 @@
-#Spring Boot REST Application: Category-Product Management
+**Spring Boot REST Application: Category-Product Management**
+
 This is a Spring Boot application demonstrating a RESTful API for managing categories and products. The application supports CRUD operations and server-side pagination. 
 
 #Features
